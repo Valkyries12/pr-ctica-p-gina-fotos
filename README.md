@@ -1,2 +1,2 @@
-# pr-ctica-p-gina-fotos
+# practica-pagina-fotos
 pequeño proyecto de una página de fotos responsive
